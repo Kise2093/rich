@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-<<<<<<< HEAD
-//rich
-=======
-//Kris
->>>>>>> 8ef4ff620a54734b717538c30106e8c4001e499b
+//StupidBois
 void main()
 { char Name[40], G[5], answer[10];
   int i;
